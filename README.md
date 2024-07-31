@@ -66,6 +66,24 @@ DocSynth is an advanced Retrieval-Augmented Generation (RAG) system designed to 
   - `streamlit_app.py`: Streamlit application for user interaction
 - `tests/`: Contains test files for the application
 
+##Tools
+-  OpenAI API (GPT models)
+-  Chroma DB (vector database)
+-  Redis (caching and data storage)
+-  FastAPI (web framework)
+-  Pydantic (data validation)
+-  asyncio (asynchronous programming)
+-  tiktoken (token counting for LLMs)
+-  NLTK (natural language processing)
+-  Sentence Transformers (for embeddings)
+-  Docker (containerization)
+-  GitHub Actions (CI/CD)
+-  Pytest (testing framework)
+-  Black (code formatting)
+-  isort (import sorting)
+- ypy (static type checking)
+-  Poetry (dependency management)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
